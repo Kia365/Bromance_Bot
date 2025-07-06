@@ -1,0 +1,5 @@
+langchain
+telethon
+python-dotenv
+requests # for LLM API calls 
+python-telegram-bot 
